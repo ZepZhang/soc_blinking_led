@@ -1,7 +1,7 @@
 module blinking_led (
     input CLOCK_50,
     input [3:0] KEY,
-    output [3:0] LED,
+    output [9:0] LED,
 	 
 	output [14:0] hps_memory_mem_a,
     output [2:0]  hps_memory_mem_ba,
