@@ -61,4 +61,3 @@ Module.symvers
 #maybe useful in the future, but I still decided to remove them until I figure 
 #out the usage
 *.qsf
-*.tcl
